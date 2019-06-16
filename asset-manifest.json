@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reactionmixer/static/css/main.c36f6b3d.chunk.css",
-    "main.js": "/reactionmixer/static/js/main.1b595a99.chunk.js",
-    "main.js.map": "/reactionmixer/static/js/main.1b595a99.chunk.js.map",
-    "runtime~main.js": "/reactionmixer/static/js/runtime~main.199303ef.js",
-    "runtime~main.js.map": "/reactionmixer/static/js/runtime~main.199303ef.js.map",
-    "static/js/2.0bdf1262.chunk.js": "/reactionmixer/static/js/2.0bdf1262.chunk.js",
-    "static/js/2.0bdf1262.chunk.js.map": "/reactionmixer/static/js/2.0bdf1262.chunk.js.map",
-    "index.html": "/reactionmixer/index.html",
-    "precache-manifest.99a5c869ea4c90a489de7f7239036887.js": "/reactionmixer/precache-manifest.99a5c869ea4c90a489de7f7239036887.js",
-    "service-worker.js": "/reactionmixer/service-worker.js",
-    "static/css/main.c36f6b3d.chunk.css.map": "/reactionmixer/static/css/main.c36f6b3d.chunk.css.map",
-    "static/media/base-angry.png": "/reactionmixer/static/media/base-angry.4ec03953.png"
+    "main.css": "/reaction-mixer/static/css/main.c36f6b3d.chunk.css",
+    "main.js": "/reaction-mixer/static/js/main.4d557829.chunk.js",
+    "main.js.map": "/reaction-mixer/static/js/main.4d557829.chunk.js.map",
+    "runtime~main.js": "/reaction-mixer/static/js/runtime~main.eaf4b2a2.js",
+    "runtime~main.js.map": "/reaction-mixer/static/js/runtime~main.eaf4b2a2.js.map",
+    "static/js/2.0bdf1262.chunk.js": "/reaction-mixer/static/js/2.0bdf1262.chunk.js",
+    "static/js/2.0bdf1262.chunk.js.map": "/reaction-mixer/static/js/2.0bdf1262.chunk.js.map",
+    "index.html": "/reaction-mixer/index.html",
+    "precache-manifest.b8511ae47c6db5b94d92d822a916e3eb.js": "/reaction-mixer/precache-manifest.b8511ae47c6db5b94d92d822a916e3eb.js",
+    "service-worker.js": "/reaction-mixer/service-worker.js",
+    "static/css/main.c36f6b3d.chunk.css.map": "/reaction-mixer/static/css/main.c36f6b3d.chunk.css.map",
+    "static/media/base-angry.png": "/reaction-mixer/static/media/base-angry.4ec03953.png"
   }
 }
