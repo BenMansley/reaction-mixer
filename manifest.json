@@ -1,0 +1,25 @@
+{
+  "short_name": "Reaction Mixer",
+  "name": "Reaction Mixer",
+  "icons": [
+    {
+      "src": "favicon64.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon32.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon128.ico",
+      "sizes": "128x128",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#E65100",
+  "background_color": "#ffffff"
+}

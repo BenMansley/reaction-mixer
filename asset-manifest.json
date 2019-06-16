@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactionmixer/static/css/main.c36f6b3d.chunk.css",
+    "main.js": "/reactionmixer/static/js/main.1b595a99.chunk.js",
+    "main.js.map": "/reactionmixer/static/js/main.1b595a99.chunk.js.map",
+    "runtime~main.js": "/reactionmixer/static/js/runtime~main.199303ef.js",
+    "runtime~main.js.map": "/reactionmixer/static/js/runtime~main.199303ef.js.map",
+    "static/js/2.0bdf1262.chunk.js": "/reactionmixer/static/js/2.0bdf1262.chunk.js",
+    "static/js/2.0bdf1262.chunk.js.map": "/reactionmixer/static/js/2.0bdf1262.chunk.js.map",
+    "index.html": "/reactionmixer/index.html",
+    "precache-manifest.99a5c869ea4c90a489de7f7239036887.js": "/reactionmixer/precache-manifest.99a5c869ea4c90a489de7f7239036887.js",
+    "service-worker.js": "/reactionmixer/service-worker.js",
+    "static/css/main.c36f6b3d.chunk.css.map": "/reactionmixer/static/css/main.c36f6b3d.chunk.css.map",
+    "static/media/base-angry.png": "/reactionmixer/static/media/base-angry.4ec03953.png"
+  }
+}
