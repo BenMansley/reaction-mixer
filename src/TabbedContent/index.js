@@ -17,17 +17,21 @@ const TabbedContent = ({tabs}) => {
   return (
     <div>
       <nav className='tabTitles'>
-        {titles.map((t, i) => (
+        {titles.map((title, i) => (
           <div key={i} className={activeTab === i ? 'active' : ''}>
+            {/* This is a little hacky,
+              * the idea is that we show a 'button' on mobile, and a span on desktop */}
             <button type='button' onClick={() => setActiveTab(i)}>
-              <span>{t}</span>
+              <span>{title}</span>
             </button>
-            <span>{t}</span>
+            <span>{title}</span>
           </div>
         ))}
       </nav>
       <div className='tabs'>
-        {tabContents.map((t, i) => <div key={i} className={'tab' + (activeTab === i ? ' active' : '')}>{t}</div>)}
+        {tabContents.map((tab, i) =>
+          <div key={i} className={'tab' + (activeTab === i ? ' active' : '')}>{tab}</div>
+        )}
       </div>
     </div>
   )

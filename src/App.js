@@ -33,6 +33,7 @@ const App = () => {
 
   const {base, mouth, eyes, showTear} = state;
 
+  // Todo (maybe): extract into separate component
   const tabs = ['base', 'eyes', 'mouth'].map((part) => ({
     title: part,
     content: (
