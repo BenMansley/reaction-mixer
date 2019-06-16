@@ -2,6 +2,7 @@
   "name": "reaction-mixer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://benmansley.github.io/reactionmixer",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@babel/plugin-transform-react-jsx-self": "^7.2.0",
