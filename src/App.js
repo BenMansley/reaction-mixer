@@ -83,6 +83,7 @@ const App = () => {
         <p>Here you can make your own ridiculous reactions, based on the original 2D Facebook reactions.</p>
         <p>Use the controls below to get started, or pick a preset:&nbsp;
           <SelectPreset onSelectPreset={(preset) => setState(preset)}/></p>
+        <p>The Save button may not work on mobile in the Facebook app's in-built browser - try opening in Chrome/Safari...</p>
       </header>
       <TabbedContent tabs={tabs}/>
       <a className='download' download={`reaction-${downloadId}`} href={dataURL}>Save as .PNG</a>
