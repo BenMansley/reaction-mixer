@@ -1,0 +1,60 @@
+@import '../resources/styles/colours.scss';
+@import '../resources/styles/a11y.scss';
+
+.tabTitles {
+  display: flex;
+  
+  > div {
+    padding: 10px;
+    flex: 1;
+    text-align: center;
+    
+    > button {
+      @include removeButtonStyles();
+      display: none;
+    }
+
+    span {
+      text-transform: capitalize;
+      border-bottom: 2px solid transparent;
+    }
+
+    @media (max-width: 1000px) {
+      > button {
+        display: block;
+      }
+
+      > span {
+        display: none;
+      }
+   
+      &.active span {
+        border-bottom-color: $themeColor;
+      }
+    }
+  }
+}
+
+.tabs {
+  display: flex;
+
+  .tab {
+    flex: 1;
+    border-top: 4px solid $themeColor;
+    border-bottom: 4px solid $themeColor;
+
+    @media (min-width: 1001px) {
+      &:not(:first-of-type) {
+        border-left: 4px solid $themeColor;
+      }
+    }
+
+    @media (max-width: 1000px) {
+      &:not(.active) {
+        display: none;
+      }
+    }
+  }
+}
+
+
